@@ -4,7 +4,7 @@ With the increased use of modern messaging applications like Whatsapp etc, emoji
 This project helps in predicting appropriate emojis for an English Sentence.<br>
 To implement this, we use Recurrent Neural Networks with Long Short Term Memory (LSTM).<br>
 There are 2 parts in the jupyter notebook:<br>
-1) Predicting Emoji using a Simple Recurrent Neural Network.<br>
+1) Predicting Emoji using a Simple Neural Network.<br>
 2) Predicting Emoji using RNN with LSTM to also consider long range dependencies in the sentences.<br>
 
 Also, this project uses word embeddings from https://nlp.stanford.edu/projects/glove/
